@@ -1,0 +1,7 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,subject_id,age,gender,height,brain_volume,photo_as_pdf,form_1_complete
+1,form_1,1,SUBJ_001,101,Male,180,1046,COLI_HM25_CT_1_COLI_HM25_03092021_1954_2_thresh_0_40_VersionDate-11302022_01_07_2023.pdf,1
+2,form_1,2,First,101,Female,179,1040,,0
+ATUL_001,form_1,1,OURFIRSTSUBJECT,101,Female,179,1040,COLI_HM25_CT_1_COLI_HM25_03092021_1954_2_thresh_0_40_VersionDate-11302022_01_07_2023.pdf,0
+ATUL_001,form_1,2,OURFIRSTSUBJECT,101,Female,179,1040,COLI_HM25_CT_1_COLI_HM25_03092021_1954_2_thresh_0_40_VersionDate-11302022_01_07_2023.pdf,0
+ATUL_002,form_1,1,First,101,Female,179,1040,,0
+ATUL_003,form_1,1,FirstFirst,101,Female,179,1040,COLI_HM25_CT_1_COLI_HM25_03092021_1954_2_thresh_0_40_VersionDate-11302022_01_07_2023.pdf,0
